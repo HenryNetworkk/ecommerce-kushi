@@ -1,68 +1,69 @@
-# 👗 Kushi - E-commerce de Moda
+# 👗 Kushi - Fashion E-commerce
 
-E-commerce especializado em moda masculina e feminina, com catálogo organizado, promoções sazonais e blog de tendências. Desenvolvido com HTML, CSS e JavaScript puros.
+E-commerce specialized in men's and women's fashion, featuring an organized catalog, seasonal promotions, and a trend blog. Developed with pure HTML, CSS, and JavaScript.
 
- <img src="https://raw.githubusercontent.com/PabloG-7/ecommerce-kushi/refs/heads/main/kushi-linkedin.png" alt="Preview kushi">
+<img src="https://raw.githubusercontent.com/PabloG-7/ecommerce-kushi/refs/heads/main/kushi-linkedin.png" alt="Kushi Preview">
 
-## ✨ Destaques
+## ✨ Highlights
 
-- 🛍️ **Catálogo completo** com filtros por categoria (Masculino/Feminino) e preço
-- 🏷️ **Seção de promoções** com cupons de desconto
-- ✍️ **Blog integrado** com dicas de moda atualizadas
-- 📱 **100% responsivo** (mobile, tablet, desktop)
+- 🛍️ **Complete catalog** with filters by category (Men/Women) and price
+- 🏷️ **Promotions section** with discount coupons
+- ✍️ **Integrated blog** with up-to-date fashion tips
+- 📱 **100% responsive** (mobile, tablet, desktop)
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
-| Tecnologia | Função | 
-|------------|--------|
-| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="16" alt="HTML"> HTML5 | Estrutura semântica |
-| <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16" alt="CSS"> CSS3 | Estilização avançada |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16" alt="JavaScript"> JavaScript | Interatividade |
+| Technology | Role |
+|------------|------|
+| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="16" alt="HTML"> HTML5 | Semantic structure |
+| <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16" alt="CSS"> CSS3 | Advanced styling |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16" alt="JavaScript"> JavaScript | Interactivity |
 
-## 🌐 Acesso
+## 🌐 Access
 
-🔗 **[Acesse o site aqui](https://pablog-7.github.io/ecommerce-kushi/)**
+🔗 **[Access the website here](https://pablog-7.github.io/ecommerce-kushi/)**
 
-## 🏗️ Estrutura das Páginas
+## 🏗️ Page Structure
 
-| Página | Recursos |
-|--------|----------|
-| **Home** | Destaques, banners promocionais |
-| **Produtos** | Filtros, grid de itens |
-| **Blog** | Artigos, dicas de looks |
-| **Carrinho** | Cálculo de frete, checkout |
+| Page | Features |
+|------|----------|
+| **Home** | Highlights, promotional banners |
+| **Products** | Filters, item grid |
+| **Blog** | Articles, outfit tips |
+| **Cart** | Shipping calculation, checkout |
 
-## 🚀 Executando Localmente
+## 🚀 Running Locally
 
 ```bash
-# Clone o repositório
+# Clone the repository
 git clone https://github.com/pablog-7/ecommerce-kushi.git
 
-# Acesse a pasta
+# Navigate to the folder
 cd ecommerce-kushi
 
-# Abra no navegador (métodos alternativos):
-npx serve .  # Ou simplesmente abra index.html
-
+# Open in browser (alternative methods):
+npx serve .  # Or simply open index.html
 ```
 
-## 📌 Próximas Atualizações
+## 📌 Upcoming Updates
 
-- Integração com API de pagamentos
-- Sistema de avaliações de produtos
-- Login de usuários
+- Payment API integration
+- Product review system
+- User login system
 - Dark mode
 
-## 🤝 Como Contribuir
-Faça um Fork
+## 🤝 How to Contribute
 
-Crie uma branch (git checkout -b feature/sua-feature)
+Fork the project
 
-Commit (git commit -m 'Adiciona recurso X')
+Create a branch (git checkout -b feature/your-feature)
 
-Push (git push origin feature/sua-feature)
+Commit (git commit -m 'Add feature X')
 
-Abra um Pull Request
+Push (git push origin feature/your-feature)
 
-## 📄 Licença
-MIT © Pablo G.
+Open a Pull Request
+
+## 📄 License
+
+MIT © HenryNetworkk
